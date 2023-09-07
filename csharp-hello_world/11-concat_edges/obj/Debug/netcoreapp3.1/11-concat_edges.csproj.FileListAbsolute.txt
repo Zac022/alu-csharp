@@ -1,0 +1,13 @@
+/alu-csharp/csharp-hello_world/11-concat_edges/bin/Debug/netcoreapp3.1/11-concat_edges
+/alu-csharp/csharp-hello_world/11-concat_edges/bin/Debug/netcoreapp3.1/11-concat_edges.deps.json
+/alu-csharp/csharp-hello_world/11-concat_edges/bin/Debug/netcoreapp3.1/11-concat_edges.runtimeconfig.json
+/alu-csharp/csharp-hello_world/11-concat_edges/bin/Debug/netcoreapp3.1/11-concat_edges.runtimeconfig.dev.json
+/alu-csharp/csharp-hello_world/11-concat_edges/bin/Debug/netcoreapp3.1/11-concat_edges.dll
+/alu-csharp/csharp-hello_world/11-concat_edges/bin/Debug/netcoreapp3.1/11-concat_edges.pdb
+/alu-csharp/csharp-hello_world/11-concat_edges/obj/Debug/netcoreapp3.1/11-concat_edges.csprojAssemblyReference.cache
+/alu-csharp/csharp-hello_world/11-concat_edges/obj/Debug/netcoreapp3.1/11-concat_edges.AssemblyInfoInputs.cache
+/alu-csharp/csharp-hello_world/11-concat_edges/obj/Debug/netcoreapp3.1/11-concat_edges.AssemblyInfo.cs
+/alu-csharp/csharp-hello_world/11-concat_edges/obj/Debug/netcoreapp3.1/11-concat_edges.csproj.CoreCompileInputs.cache
+/alu-csharp/csharp-hello_world/11-concat_edges/obj/Debug/netcoreapp3.1/11-concat_edges.dll
+/alu-csharp/csharp-hello_world/11-concat_edges/obj/Debug/netcoreapp3.1/11-concat_edges.pdb
+/alu-csharp/csharp-hello_world/11-concat_edges/obj/Debug/netcoreapp3.1/11-concat_edges.genruntimeconfig.cache
