@@ -2,12 +2,11 @@ using System;
 
 class Program
 {
-    static void Main()
-    {
-        double percent = 75.53;
-        double currency = 98765.43;
-
-        Console.WriteLine($"Percent: {percent.ToString("0.00")}% tip");
-        Console.WriteLine($"Currency: {currency.ToString("C2")}");
+	static void Main(string[] args)
+	{
+		double percent = .7553;
+		double currency = 98765.4321;
+		Console.WriteLine($"Percent: {percent * 100}%");
+        Console.WriteLine($"Currency: {string.Format("{0:C2}", currency)}");
     }
 }
