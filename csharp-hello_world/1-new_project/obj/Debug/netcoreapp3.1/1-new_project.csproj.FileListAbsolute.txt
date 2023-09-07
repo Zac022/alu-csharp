@@ -1,0 +1,13 @@
+/alu-csharp/csharp-hello_world/1-new_project/bin/Debug/netcoreapp3.1/1-new_project
+/alu-csharp/csharp-hello_world/1-new_project/bin/Debug/netcoreapp3.1/1-new_project.deps.json
+/alu-csharp/csharp-hello_world/1-new_project/bin/Debug/netcoreapp3.1/1-new_project.runtimeconfig.json
+/alu-csharp/csharp-hello_world/1-new_project/bin/Debug/netcoreapp3.1/1-new_project.runtimeconfig.dev.json
+/alu-csharp/csharp-hello_world/1-new_project/bin/Debug/netcoreapp3.1/1-new_project.dll
+/alu-csharp/csharp-hello_world/1-new_project/bin/Debug/netcoreapp3.1/1-new_project.pdb
+/alu-csharp/csharp-hello_world/1-new_project/obj/Debug/netcoreapp3.1/1-new_project.csprojAssemblyReference.cache
+/alu-csharp/csharp-hello_world/1-new_project/obj/Debug/netcoreapp3.1/1-new_project.AssemblyInfoInputs.cache
+/alu-csharp/csharp-hello_world/1-new_project/obj/Debug/netcoreapp3.1/1-new_project.AssemblyInfo.cs
+/alu-csharp/csharp-hello_world/1-new_project/obj/Debug/netcoreapp3.1/1-new_project.csproj.CoreCompileInputs.cache
+/alu-csharp/csharp-hello_world/1-new_project/obj/Debug/netcoreapp3.1/1-new_project.dll
+/alu-csharp/csharp-hello_world/1-new_project/obj/Debug/netcoreapp3.1/1-new_project.pdb
+/alu-csharp/csharp-hello_world/1-new_project/obj/Debug/netcoreapp3.1/1-new_project.genruntimeconfig.cache
