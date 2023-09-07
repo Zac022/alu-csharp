@@ -1,0 +1,13 @@
+/alu-csharp/csharp-hello_world/4-print_integer/bin/Debug/netcoreapp3.1/4-print_integer
+/alu-csharp/csharp-hello_world/4-print_integer/bin/Debug/netcoreapp3.1/4-print_integer.deps.json
+/alu-csharp/csharp-hello_world/4-print_integer/bin/Debug/netcoreapp3.1/4-print_integer.runtimeconfig.json
+/alu-csharp/csharp-hello_world/4-print_integer/bin/Debug/netcoreapp3.1/4-print_integer.runtimeconfig.dev.json
+/alu-csharp/csharp-hello_world/4-print_integer/bin/Debug/netcoreapp3.1/4-print_integer.dll
+/alu-csharp/csharp-hello_world/4-print_integer/bin/Debug/netcoreapp3.1/4-print_integer.pdb
+/alu-csharp/csharp-hello_world/4-print_integer/obj/Debug/netcoreapp3.1/4-print_integer.csprojAssemblyReference.cache
+/alu-csharp/csharp-hello_world/4-print_integer/obj/Debug/netcoreapp3.1/4-print_integer.AssemblyInfoInputs.cache
+/alu-csharp/csharp-hello_world/4-print_integer/obj/Debug/netcoreapp3.1/4-print_integer.AssemblyInfo.cs
+/alu-csharp/csharp-hello_world/4-print_integer/obj/Debug/netcoreapp3.1/4-print_integer.csproj.CoreCompileInputs.cache
+/alu-csharp/csharp-hello_world/4-print_integer/obj/Debug/netcoreapp3.1/4-print_integer.dll
+/alu-csharp/csharp-hello_world/4-print_integer/obj/Debug/netcoreapp3.1/4-print_integer.pdb
+/alu-csharp/csharp-hello_world/4-print_integer/obj/Debug/netcoreapp3.1/4-print_integer.genruntimeconfig.cache
