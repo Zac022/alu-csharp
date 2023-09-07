@@ -1,0 +1,13 @@
+/alu-csharp/csharp-hello_world/5-print_float/bin/Debug/netcoreapp3.1/5-print_float
+/alu-csharp/csharp-hello_world/5-print_float/bin/Debug/netcoreapp3.1/5-print_float.deps.json
+/alu-csharp/csharp-hello_world/5-print_float/bin/Debug/netcoreapp3.1/5-print_float.runtimeconfig.json
+/alu-csharp/csharp-hello_world/5-print_float/bin/Debug/netcoreapp3.1/5-print_float.runtimeconfig.dev.json
+/alu-csharp/csharp-hello_world/5-print_float/bin/Debug/netcoreapp3.1/5-print_float.dll
+/alu-csharp/csharp-hello_world/5-print_float/bin/Debug/netcoreapp3.1/5-print_float.pdb
+/alu-csharp/csharp-hello_world/5-print_float/obj/Debug/netcoreapp3.1/5-print_float.csprojAssemblyReference.cache
+/alu-csharp/csharp-hello_world/5-print_float/obj/Debug/netcoreapp3.1/5-print_float.AssemblyInfoInputs.cache
+/alu-csharp/csharp-hello_world/5-print_float/obj/Debug/netcoreapp3.1/5-print_float.AssemblyInfo.cs
+/alu-csharp/csharp-hello_world/5-print_float/obj/Debug/netcoreapp3.1/5-print_float.csproj.CoreCompileInputs.cache
+/alu-csharp/csharp-hello_world/5-print_float/obj/Debug/netcoreapp3.1/5-print_float.dll
+/alu-csharp/csharp-hello_world/5-print_float/obj/Debug/netcoreapp3.1/5-print_float.pdb
+/alu-csharp/csharp-hello_world/5-print_float/obj/Debug/netcoreapp3.1/5-print_float.genruntimeconfig.cache
