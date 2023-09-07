@@ -1,0 +1,13 @@
+/alu-csharp/csharp-hello_world/100-hello_error/bin/Debug/netcoreapp3.1/100-hello_error
+/alu-csharp/csharp-hello_world/100-hello_error/bin/Debug/netcoreapp3.1/100-hello_error.deps.json
+/alu-csharp/csharp-hello_world/100-hello_error/bin/Debug/netcoreapp3.1/100-hello_error.runtimeconfig.json
+/alu-csharp/csharp-hello_world/100-hello_error/bin/Debug/netcoreapp3.1/100-hello_error.runtimeconfig.dev.json
+/alu-csharp/csharp-hello_world/100-hello_error/bin/Debug/netcoreapp3.1/100-hello_error.dll
+/alu-csharp/csharp-hello_world/100-hello_error/bin/Debug/netcoreapp3.1/100-hello_error.pdb
+/alu-csharp/csharp-hello_world/100-hello_error/obj/Debug/netcoreapp3.1/100-hello_error.csprojAssemblyReference.cache
+/alu-csharp/csharp-hello_world/100-hello_error/obj/Debug/netcoreapp3.1/100-hello_error.AssemblyInfoInputs.cache
+/alu-csharp/csharp-hello_world/100-hello_error/obj/Debug/netcoreapp3.1/100-hello_error.AssemblyInfo.cs
+/alu-csharp/csharp-hello_world/100-hello_error/obj/Debug/netcoreapp3.1/100-hello_error.csproj.CoreCompileInputs.cache
+/alu-csharp/csharp-hello_world/100-hello_error/obj/Debug/netcoreapp3.1/100-hello_error.dll
+/alu-csharp/csharp-hello_world/100-hello_error/obj/Debug/netcoreapp3.1/100-hello_error.pdb
+/alu-csharp/csharp-hello_world/100-hello_error/obj/Debug/netcoreapp3.1/100-hello_error.genruntimeconfig.cache
