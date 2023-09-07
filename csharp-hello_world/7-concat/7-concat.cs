@@ -7,6 +7,6 @@ class Program
         string str1 = "Welcome to ";
         string str2 = "Holberton School!";
         string str3 = $"{str1}{str2}";
-        Console.WriteLine(str3);
+        Console.WriteLine(str3.Length);
     }
 }
