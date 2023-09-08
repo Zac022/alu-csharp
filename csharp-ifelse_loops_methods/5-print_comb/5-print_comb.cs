@@ -1,28 +1,14 @@
 using System;
 
-class Program
-{
-    static void Main(string[] args)
-    {
-        for (int number = 0; number < 100; number++)
-        {
-            if (number < 10)
-            {
-                Console.Write("0" + number);
+class Program{
+    static void Main(String[] args){
+         for(int i = 0; i < 100 ; i++){
+            
+            if(i == 99){
+                Console.Write($"{i}");
+            }else{
+                Console.Write($"{i:D2}, ");
             }
-            else
-            {
-                Console.Write(number.ToString());
-            }
-
-            if (number < 99)
-            {
-                Console.Write(", ");
-            }
-            else
-            {
-                Console.Write("\n");
-            }
+         }
         }
     }
-}
