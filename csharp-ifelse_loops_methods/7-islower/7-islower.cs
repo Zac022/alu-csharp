@@ -1,27 +1,18 @@
 using System;
 
-public class Character
-{
-    public static bool IsLower(char c)
-    {
-        // Check if the character is between 'a' and 'z' in ASCII values.
-        return c >= 'a' && c <= 'z';
-    }
-}
+class Character{
 
-class Program
-{
-    static void Main(string[] args)
-    {
-        char[] letters = { 'a', 'A', 'Q', 'h', '9', 'B', 'g' };
-        int i;
+    static List<char> lowerCase = new List<char>();
+    public static bool IsLower(char c){
 
-        for (i = 0; i < letters.Length; i++)
-        {
-            if (Character.IsLower(letters[i]))
-                Console.WriteLine("{0} is lowercase", letters[i]);
-            else
-                Console.WriteLine("{0} is uppercase", letters[i]);
+        for(char i = 'a'; i <= 'z'; i++){
+            lowerCase.Add(i);
+        }
+
+        if(lowerCase.Contains(c)){
+            return true;
+        }else{
+            return false;
         }
     }
 }
