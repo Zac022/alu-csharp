@@ -1,0 +1,13 @@
+/alu-csharp/csharp-ifelse_loops_methods/5-print_comb/bin/Debug/netcoreapp3.1/5-print_comb
+/alu-csharp/csharp-ifelse_loops_methods/5-print_comb/bin/Debug/netcoreapp3.1/5-print_comb.deps.json
+/alu-csharp/csharp-ifelse_loops_methods/5-print_comb/bin/Debug/netcoreapp3.1/5-print_comb.runtimeconfig.json
+/alu-csharp/csharp-ifelse_loops_methods/5-print_comb/bin/Debug/netcoreapp3.1/5-print_comb.runtimeconfig.dev.json
+/alu-csharp/csharp-ifelse_loops_methods/5-print_comb/bin/Debug/netcoreapp3.1/5-print_comb.dll
+/alu-csharp/csharp-ifelse_loops_methods/5-print_comb/bin/Debug/netcoreapp3.1/5-print_comb.pdb
+/alu-csharp/csharp-ifelse_loops_methods/5-print_comb/obj/Debug/netcoreapp3.1/5-print_comb.csprojAssemblyReference.cache
+/alu-csharp/csharp-ifelse_loops_methods/5-print_comb/obj/Debug/netcoreapp3.1/5-print_comb.AssemblyInfoInputs.cache
+/alu-csharp/csharp-ifelse_loops_methods/5-print_comb/obj/Debug/netcoreapp3.1/5-print_comb.AssemblyInfo.cs
+/alu-csharp/csharp-ifelse_loops_methods/5-print_comb/obj/Debug/netcoreapp3.1/5-print_comb.csproj.CoreCompileInputs.cache
+/alu-csharp/csharp-ifelse_loops_methods/5-print_comb/obj/Debug/netcoreapp3.1/5-print_comb.dll
+/alu-csharp/csharp-ifelse_loops_methods/5-print_comb/obj/Debug/netcoreapp3.1/5-print_comb.pdb
+/alu-csharp/csharp-ifelse_loops_methods/5-print_comb/obj/Debug/netcoreapp3.1/5-print_comb.genruntimeconfig.cache
