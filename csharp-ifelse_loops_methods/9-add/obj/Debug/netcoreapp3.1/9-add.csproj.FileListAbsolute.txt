@@ -1,0 +1,13 @@
+/alu-csharp/csharp-ifelse_loops_methods/9-add/bin/Debug/netcoreapp3.1/9-add
+/alu-csharp/csharp-ifelse_loops_methods/9-add/bin/Debug/netcoreapp3.1/9-add.deps.json
+/alu-csharp/csharp-ifelse_loops_methods/9-add/bin/Debug/netcoreapp3.1/9-add.runtimeconfig.json
+/alu-csharp/csharp-ifelse_loops_methods/9-add/bin/Debug/netcoreapp3.1/9-add.runtimeconfig.dev.json
+/alu-csharp/csharp-ifelse_loops_methods/9-add/bin/Debug/netcoreapp3.1/9-add.dll
+/alu-csharp/csharp-ifelse_loops_methods/9-add/bin/Debug/netcoreapp3.1/9-add.pdb
+/alu-csharp/csharp-ifelse_loops_methods/9-add/obj/Debug/netcoreapp3.1/9-add.csprojAssemblyReference.cache
+/alu-csharp/csharp-ifelse_loops_methods/9-add/obj/Debug/netcoreapp3.1/9-add.AssemblyInfoInputs.cache
+/alu-csharp/csharp-ifelse_loops_methods/9-add/obj/Debug/netcoreapp3.1/9-add.AssemblyInfo.cs
+/alu-csharp/csharp-ifelse_loops_methods/9-add/obj/Debug/netcoreapp3.1/9-add.csproj.CoreCompileInputs.cache
+/alu-csharp/csharp-ifelse_loops_methods/9-add/obj/Debug/netcoreapp3.1/9-add.dll
+/alu-csharp/csharp-ifelse_loops_methods/9-add/obj/Debug/netcoreapp3.1/9-add.pdb
+/alu-csharp/csharp-ifelse_loops_methods/9-add/obj/Debug/netcoreapp3.1/9-add.genruntimeconfig.cache
