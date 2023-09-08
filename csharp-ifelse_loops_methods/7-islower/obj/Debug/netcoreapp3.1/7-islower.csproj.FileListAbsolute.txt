@@ -1,0 +1,13 @@
+/alu-csharp/csharp-ifelse_loops_methods/7-islower/bin/Debug/netcoreapp3.1/7-islower
+/alu-csharp/csharp-ifelse_loops_methods/7-islower/bin/Debug/netcoreapp3.1/7-islower.deps.json
+/alu-csharp/csharp-ifelse_loops_methods/7-islower/bin/Debug/netcoreapp3.1/7-islower.runtimeconfig.json
+/alu-csharp/csharp-ifelse_loops_methods/7-islower/bin/Debug/netcoreapp3.1/7-islower.runtimeconfig.dev.json
+/alu-csharp/csharp-ifelse_loops_methods/7-islower/bin/Debug/netcoreapp3.1/7-islower.dll
+/alu-csharp/csharp-ifelse_loops_methods/7-islower/bin/Debug/netcoreapp3.1/7-islower.pdb
+/alu-csharp/csharp-ifelse_loops_methods/7-islower/obj/Debug/netcoreapp3.1/7-islower.csprojAssemblyReference.cache
+/alu-csharp/csharp-ifelse_loops_methods/7-islower/obj/Debug/netcoreapp3.1/7-islower.AssemblyInfoInputs.cache
+/alu-csharp/csharp-ifelse_loops_methods/7-islower/obj/Debug/netcoreapp3.1/7-islower.AssemblyInfo.cs
+/alu-csharp/csharp-ifelse_loops_methods/7-islower/obj/Debug/netcoreapp3.1/7-islower.csproj.CoreCompileInputs.cache
+/alu-csharp/csharp-ifelse_loops_methods/7-islower/obj/Debug/netcoreapp3.1/7-islower.dll
+/alu-csharp/csharp-ifelse_loops_methods/7-islower/obj/Debug/netcoreapp3.1/7-islower.pdb
+/alu-csharp/csharp-ifelse_loops_methods/7-islower/obj/Debug/netcoreapp3.1/7-islower.genruntimeconfig.cache
