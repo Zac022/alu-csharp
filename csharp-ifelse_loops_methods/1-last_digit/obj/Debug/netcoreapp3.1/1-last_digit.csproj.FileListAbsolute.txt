@@ -1,0 +1,13 @@
+/alu-csharp/csharp-ifelse_loops_methods/1-last_digit/bin/Debug/netcoreapp3.1/1-last_digit
+/alu-csharp/csharp-ifelse_loops_methods/1-last_digit/bin/Debug/netcoreapp3.1/1-last_digit.deps.json
+/alu-csharp/csharp-ifelse_loops_methods/1-last_digit/bin/Debug/netcoreapp3.1/1-last_digit.runtimeconfig.json
+/alu-csharp/csharp-ifelse_loops_methods/1-last_digit/bin/Debug/netcoreapp3.1/1-last_digit.runtimeconfig.dev.json
+/alu-csharp/csharp-ifelse_loops_methods/1-last_digit/bin/Debug/netcoreapp3.1/1-last_digit.dll
+/alu-csharp/csharp-ifelse_loops_methods/1-last_digit/bin/Debug/netcoreapp3.1/1-last_digit.pdb
+/alu-csharp/csharp-ifelse_loops_methods/1-last_digit/obj/Debug/netcoreapp3.1/1-last_digit.csprojAssemblyReference.cache
+/alu-csharp/csharp-ifelse_loops_methods/1-last_digit/obj/Debug/netcoreapp3.1/1-last_digit.AssemblyInfoInputs.cache
+/alu-csharp/csharp-ifelse_loops_methods/1-last_digit/obj/Debug/netcoreapp3.1/1-last_digit.AssemblyInfo.cs
+/alu-csharp/csharp-ifelse_loops_methods/1-last_digit/obj/Debug/netcoreapp3.1/1-last_digit.csproj.CoreCompileInputs.cache
+/alu-csharp/csharp-ifelse_loops_methods/1-last_digit/obj/Debug/netcoreapp3.1/1-last_digit.dll
+/alu-csharp/csharp-ifelse_loops_methods/1-last_digit/obj/Debug/netcoreapp3.1/1-last_digit.pdb
+/alu-csharp/csharp-ifelse_loops_methods/1-last_digit/obj/Debug/netcoreapp3.1/1-last_digit.genruntimeconfig.cache
