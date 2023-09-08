@@ -1,0 +1,13 @@
+/alu-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/bin/Debug/netcoreapp3.1/12-fizzbuzz
+/alu-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/bin/Debug/netcoreapp3.1/12-fizzbuzz.deps.json
+/alu-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/bin/Debug/netcoreapp3.1/12-fizzbuzz.runtimeconfig.json
+/alu-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/bin/Debug/netcoreapp3.1/12-fizzbuzz.runtimeconfig.dev.json
+/alu-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/bin/Debug/netcoreapp3.1/12-fizzbuzz.dll
+/alu-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/bin/Debug/netcoreapp3.1/12-fizzbuzz.pdb
+/alu-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/netcoreapp3.1/12-fizzbuzz.csprojAssemblyReference.cache
+/alu-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/netcoreapp3.1/12-fizzbuzz.AssemblyInfoInputs.cache
+/alu-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/netcoreapp3.1/12-fizzbuzz.AssemblyInfo.cs
+/alu-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/netcoreapp3.1/12-fizzbuzz.csproj.CoreCompileInputs.cache
+/alu-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/netcoreapp3.1/12-fizzbuzz.dll
+/alu-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/netcoreapp3.1/12-fizzbuzz.pdb
+/alu-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/netcoreapp3.1/12-fizzbuzz.genruntimeconfig.cache
