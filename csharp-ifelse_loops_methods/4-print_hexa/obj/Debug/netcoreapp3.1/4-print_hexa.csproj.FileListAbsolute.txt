@@ -1,0 +1,13 @@
+/alu-csharp/csharp-ifelse_loops_methods/4-print_hexa/bin/Debug/netcoreapp3.1/4-print_hexa
+/alu-csharp/csharp-ifelse_loops_methods/4-print_hexa/bin/Debug/netcoreapp3.1/4-print_hexa.deps.json
+/alu-csharp/csharp-ifelse_loops_methods/4-print_hexa/bin/Debug/netcoreapp3.1/4-print_hexa.runtimeconfig.json
+/alu-csharp/csharp-ifelse_loops_methods/4-print_hexa/bin/Debug/netcoreapp3.1/4-print_hexa.runtimeconfig.dev.json
+/alu-csharp/csharp-ifelse_loops_methods/4-print_hexa/bin/Debug/netcoreapp3.1/4-print_hexa.dll
+/alu-csharp/csharp-ifelse_loops_methods/4-print_hexa/bin/Debug/netcoreapp3.1/4-print_hexa.pdb
+/alu-csharp/csharp-ifelse_loops_methods/4-print_hexa/obj/Debug/netcoreapp3.1/4-print_hexa.csprojAssemblyReference.cache
+/alu-csharp/csharp-ifelse_loops_methods/4-print_hexa/obj/Debug/netcoreapp3.1/4-print_hexa.AssemblyInfoInputs.cache
+/alu-csharp/csharp-ifelse_loops_methods/4-print_hexa/obj/Debug/netcoreapp3.1/4-print_hexa.AssemblyInfo.cs
+/alu-csharp/csharp-ifelse_loops_methods/4-print_hexa/obj/Debug/netcoreapp3.1/4-print_hexa.csproj.CoreCompileInputs.cache
+/alu-csharp/csharp-ifelse_loops_methods/4-print_hexa/obj/Debug/netcoreapp3.1/4-print_hexa.dll
+/alu-csharp/csharp-ifelse_loops_methods/4-print_hexa/obj/Debug/netcoreapp3.1/4-print_hexa.pdb
+/alu-csharp/csharp-ifelse_loops_methods/4-print_hexa/obj/Debug/netcoreapp3.1/4-print_hexa.genruntimeconfig.cache
