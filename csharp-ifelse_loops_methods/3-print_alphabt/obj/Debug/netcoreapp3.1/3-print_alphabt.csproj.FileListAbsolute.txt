@@ -1,0 +1,13 @@
+/alu-csharp/csharp-ifelse_loops_methods/3-print_alphabt/bin/Debug/netcoreapp3.1/3-print_alphabt
+/alu-csharp/csharp-ifelse_loops_methods/3-print_alphabt/bin/Debug/netcoreapp3.1/3-print_alphabt.deps.json
+/alu-csharp/csharp-ifelse_loops_methods/3-print_alphabt/bin/Debug/netcoreapp3.1/3-print_alphabt.runtimeconfig.json
+/alu-csharp/csharp-ifelse_loops_methods/3-print_alphabt/bin/Debug/netcoreapp3.1/3-print_alphabt.runtimeconfig.dev.json
+/alu-csharp/csharp-ifelse_loops_methods/3-print_alphabt/bin/Debug/netcoreapp3.1/3-print_alphabt.dll
+/alu-csharp/csharp-ifelse_loops_methods/3-print_alphabt/bin/Debug/netcoreapp3.1/3-print_alphabt.pdb
+/alu-csharp/csharp-ifelse_loops_methods/3-print_alphabt/obj/Debug/netcoreapp3.1/3-print_alphabt.csprojAssemblyReference.cache
+/alu-csharp/csharp-ifelse_loops_methods/3-print_alphabt/obj/Debug/netcoreapp3.1/3-print_alphabt.AssemblyInfoInputs.cache
+/alu-csharp/csharp-ifelse_loops_methods/3-print_alphabt/obj/Debug/netcoreapp3.1/3-print_alphabt.AssemblyInfo.cs
+/alu-csharp/csharp-ifelse_loops_methods/3-print_alphabt/obj/Debug/netcoreapp3.1/3-print_alphabt.csproj.CoreCompileInputs.cache
+/alu-csharp/csharp-ifelse_loops_methods/3-print_alphabt/obj/Debug/netcoreapp3.1/3-print_alphabt.dll
+/alu-csharp/csharp-ifelse_loops_methods/3-print_alphabt/obj/Debug/netcoreapp3.1/3-print_alphabt.pdb
+/alu-csharp/csharp-ifelse_loops_methods/3-print_alphabt/obj/Debug/netcoreapp3.1/3-print_alphabt.genruntimeconfig.cache
