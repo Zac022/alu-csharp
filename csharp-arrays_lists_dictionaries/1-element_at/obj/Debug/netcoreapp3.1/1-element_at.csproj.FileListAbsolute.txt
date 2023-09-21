@@ -1,0 +1,13 @@
+/alu-csharp/csharp-arrays_lists_dictionaries/1-element_at/obj/Debug/netcoreapp3.1/1-element_at.csprojAssemblyReference.cache
+/alu-csharp/csharp-arrays_lists_dictionaries/1-element_at/obj/Debug/netcoreapp3.1/1-element_at.AssemblyInfoInputs.cache
+/alu-csharp/csharp-arrays_lists_dictionaries/1-element_at/obj/Debug/netcoreapp3.1/1-element_at.AssemblyInfo.cs
+/alu-csharp/csharp-arrays_lists_dictionaries/1-element_at/obj/Debug/netcoreapp3.1/1-element_at.csproj.CoreCompileInputs.cache
+/alu-csharp/csharp-arrays_lists_dictionaries/1-element_at/bin/Debug/netcoreapp3.1/1-element_at
+/alu-csharp/csharp-arrays_lists_dictionaries/1-element_at/bin/Debug/netcoreapp3.1/1-element_at.deps.json
+/alu-csharp/csharp-arrays_lists_dictionaries/1-element_at/bin/Debug/netcoreapp3.1/1-element_at.runtimeconfig.json
+/alu-csharp/csharp-arrays_lists_dictionaries/1-element_at/bin/Debug/netcoreapp3.1/1-element_at.runtimeconfig.dev.json
+/alu-csharp/csharp-arrays_lists_dictionaries/1-element_at/bin/Debug/netcoreapp3.1/1-element_at.dll
+/alu-csharp/csharp-arrays_lists_dictionaries/1-element_at/bin/Debug/netcoreapp3.1/1-element_at.pdb
+/alu-csharp/csharp-arrays_lists_dictionaries/1-element_at/obj/Debug/netcoreapp3.1/1-element_at.dll
+/alu-csharp/csharp-arrays_lists_dictionaries/1-element_at/obj/Debug/netcoreapp3.1/1-element_at.pdb
+/alu-csharp/csharp-arrays_lists_dictionaries/1-element_at/obj/Debug/netcoreapp3.1/1-element_at.genruntimeconfig.cache
