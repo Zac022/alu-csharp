@@ -1,0 +1,14 @@
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/5-max_integer/bin/Debug/net7.0/5-max_integer
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/5-max_integer/bin/Debug/net7.0/5-max_integer.deps.json
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/5-max_integer/bin/Debug/net7.0/5-max_integer.runtimeconfig.json
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/5-max_integer/bin/Debug/net7.0/5-max_integer.dll
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/5-max_integer/bin/Debug/net7.0/5-max_integer.pdb
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net7.0/5-max_integer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net7.0/5-max_integer.AssemblyInfoInputs.cache
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net7.0/5-max_integer.AssemblyInfo.cs
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net7.0/5-max_integer.csproj.CoreCompileInputs.cache
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net7.0/5-max_integer.dll
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net7.0/refint/5-max_integer.dll
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net7.0/5-max_integer.pdb
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net7.0/5-max_integer.genruntimeconfig.cache
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net7.0/ref/5-max_integer.dll
