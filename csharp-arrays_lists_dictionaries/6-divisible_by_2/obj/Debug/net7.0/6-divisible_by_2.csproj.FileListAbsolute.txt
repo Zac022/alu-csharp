@@ -1,0 +1,14 @@
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/6-divisible_by_2/bin/Debug/net7.0/6-divisible_by_2
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/6-divisible_by_2/bin/Debug/net7.0/6-divisible_by_2.deps.json
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/6-divisible_by_2/bin/Debug/net7.0/6-divisible_by_2.runtimeconfig.json
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/6-divisible_by_2/bin/Debug/net7.0/6-divisible_by_2.dll
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/6-divisible_by_2/bin/Debug/net7.0/6-divisible_by_2.pdb
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/6-divisible_by_2/obj/Debug/net7.0/6-divisible_by_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/6-divisible_by_2/obj/Debug/net7.0/6-divisible_by_2.AssemblyInfoInputs.cache
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/6-divisible_by_2/obj/Debug/net7.0/6-divisible_by_2.AssemblyInfo.cs
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/6-divisible_by_2/obj/Debug/net7.0/6-divisible_by_2.csproj.CoreCompileInputs.cache
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/6-divisible_by_2/obj/Debug/net7.0/6-divisible_by_2.dll
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/6-divisible_by_2/obj/Debug/net7.0/refint/6-divisible_by_2.dll
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/6-divisible_by_2/obj/Debug/net7.0/6-divisible_by_2.pdb
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/6-divisible_by_2/obj/Debug/net7.0/6-divisible_by_2.genruntimeconfig.cache
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/6-divisible_by_2/obj/Debug/net7.0/ref/6-divisible_by_2.dll
