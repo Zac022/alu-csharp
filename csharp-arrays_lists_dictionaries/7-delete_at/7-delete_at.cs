@@ -7,14 +7,23 @@ class List
     {
         if (index >= 0 && index < myList.Count)
         {
-            myList.RemoveAt(index);
+            List<int> updatedList = new List<int>();
+            
+            for (int i = 0; i < myList.Count; i++)
+            {
+                if (i != index)
+                {
+                    updatedList.Add(myList[i]);
+                }
+            }
+            
+            return updatedList;
         }
         else
         {
             Console.WriteLine("Index is out of range");
+            return myList;
         }
-
-        return myList;
     }
 }
 
@@ -29,7 +38,7 @@ class Program
 
         Console.WriteLine("----------");
 
-        List.DeleteAt(myList, 2);
+        myList = List.DeleteAt(myList, 2);
 
         foreach (int i in myList)
             Console.WriteLine(i);
