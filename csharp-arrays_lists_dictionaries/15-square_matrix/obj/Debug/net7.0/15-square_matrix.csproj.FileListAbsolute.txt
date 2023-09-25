@@ -1,0 +1,14 @@
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/bin/Debug/net7.0/15-square_matrix
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/bin/Debug/net7.0/15-square_matrix.deps.json
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/bin/Debug/net7.0/15-square_matrix.runtimeconfig.json
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/bin/Debug/net7.0/15-square_matrix.dll
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/bin/Debug/net7.0/15-square_matrix.pdb
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net7.0/15-square_matrix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net7.0/15-square_matrix.AssemblyInfoInputs.cache
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net7.0/15-square_matrix.AssemblyInfo.cs
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net7.0/15-square_matrix.csproj.CoreCompileInputs.cache
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net7.0/15-square_matrix.dll
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net7.0/refint/15-square_matrix.dll
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net7.0/15-square_matrix.pdb
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net7.0/15-square_matrix.genruntimeconfig.cache
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net7.0/ref/15-square_matrix.dll
