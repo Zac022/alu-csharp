@@ -1,0 +1,14 @@
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/bin/Debug/net7.0/14-rectangular_array
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/bin/Debug/net7.0/14-rectangular_array.deps.json
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/bin/Debug/net7.0/14-rectangular_array.runtimeconfig.json
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/bin/Debug/net7.0/14-rectangular_array.dll
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/bin/Debug/net7.0/14-rectangular_array.pdb
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net7.0/14-rectangular_array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net7.0/14-rectangular_array.AssemblyInfoInputs.cache
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net7.0/14-rectangular_array.AssemblyInfo.cs
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net7.0/14-rectangular_array.csproj.CoreCompileInputs.cache
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net7.0/14-rectangular_array.dll
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net7.0/refint/14-rectangular_array.dll
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net7.0/14-rectangular_array.pdb
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net7.0/14-rectangular_array.genruntimeconfig.cache
+/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net7.0/ref/14-rectangular_array.dll
