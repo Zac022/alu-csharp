@@ -1,0 +1,14 @@
+/Users/apple/alu-csharp/csharp-exceptions/2-divide_lists/obj/Debug/net7.0/2-divide_lists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/alu-csharp/csharp-exceptions/2-divide_lists/obj/Debug/net7.0/2-divide_lists.AssemblyInfoInputs.cache
+/Users/apple/alu-csharp/csharp-exceptions/2-divide_lists/obj/Debug/net7.0/2-divide_lists.AssemblyInfo.cs
+/Users/apple/alu-csharp/csharp-exceptions/2-divide_lists/obj/Debug/net7.0/2-divide_lists.csproj.CoreCompileInputs.cache
+/Users/apple/alu-csharp/csharp-exceptions/2-divide_lists/bin/Debug/net7.0/2-divide_lists
+/Users/apple/alu-csharp/csharp-exceptions/2-divide_lists/bin/Debug/net7.0/2-divide_lists.deps.json
+/Users/apple/alu-csharp/csharp-exceptions/2-divide_lists/bin/Debug/net7.0/2-divide_lists.runtimeconfig.json
+/Users/apple/alu-csharp/csharp-exceptions/2-divide_lists/bin/Debug/net7.0/2-divide_lists.dll
+/Users/apple/alu-csharp/csharp-exceptions/2-divide_lists/bin/Debug/net7.0/2-divide_lists.pdb
+/Users/apple/alu-csharp/csharp-exceptions/2-divide_lists/obj/Debug/net7.0/2-divide_lists.dll
+/Users/apple/alu-csharp/csharp-exceptions/2-divide_lists/obj/Debug/net7.0/refint/2-divide_lists.dll
+/Users/apple/alu-csharp/csharp-exceptions/2-divide_lists/obj/Debug/net7.0/2-divide_lists.pdb
+/Users/apple/alu-csharp/csharp-exceptions/2-divide_lists/obj/Debug/net7.0/2-divide_lists.genruntimeconfig.cache
+/Users/apple/alu-csharp/csharp-exceptions/2-divide_lists/obj/Debug/net7.0/ref/2-divide_lists.dll
