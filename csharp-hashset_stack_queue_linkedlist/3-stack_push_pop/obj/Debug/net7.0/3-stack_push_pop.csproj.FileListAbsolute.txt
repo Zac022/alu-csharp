@@ -1,0 +1,14 @@
+/Users/apple/alu-csharp/csharp-hashset_stack_queue_linkedlist/3-stack_push_pop/bin/Debug/net7.0/3-stack_push_pop
+/Users/apple/alu-csharp/csharp-hashset_stack_queue_linkedlist/3-stack_push_pop/bin/Debug/net7.0/3-stack_push_pop.deps.json
+/Users/apple/alu-csharp/csharp-hashset_stack_queue_linkedlist/3-stack_push_pop/bin/Debug/net7.0/3-stack_push_pop.runtimeconfig.json
+/Users/apple/alu-csharp/csharp-hashset_stack_queue_linkedlist/3-stack_push_pop/bin/Debug/net7.0/3-stack_push_pop.dll
+/Users/apple/alu-csharp/csharp-hashset_stack_queue_linkedlist/3-stack_push_pop/bin/Debug/net7.0/3-stack_push_pop.pdb
+/Users/apple/alu-csharp/csharp-hashset_stack_queue_linkedlist/3-stack_push_pop/obj/Debug/net7.0/3-stack_push_pop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/alu-csharp/csharp-hashset_stack_queue_linkedlist/3-stack_push_pop/obj/Debug/net7.0/3-stack_push_pop.AssemblyInfoInputs.cache
+/Users/apple/alu-csharp/csharp-hashset_stack_queue_linkedlist/3-stack_push_pop/obj/Debug/net7.0/3-stack_push_pop.AssemblyInfo.cs
+/Users/apple/alu-csharp/csharp-hashset_stack_queue_linkedlist/3-stack_push_pop/obj/Debug/net7.0/3-stack_push_pop.csproj.CoreCompileInputs.cache
+/Users/apple/alu-csharp/csharp-hashset_stack_queue_linkedlist/3-stack_push_pop/obj/Debug/net7.0/3-stack_push_pop.dll
+/Users/apple/alu-csharp/csharp-hashset_stack_queue_linkedlist/3-stack_push_pop/obj/Debug/net7.0/refint/3-stack_push_pop.dll
+/Users/apple/alu-csharp/csharp-hashset_stack_queue_linkedlist/3-stack_push_pop/obj/Debug/net7.0/3-stack_push_pop.pdb
+/Users/apple/alu-csharp/csharp-hashset_stack_queue_linkedlist/3-stack_push_pop/obj/Debug/net7.0/3-stack_push_pop.genruntimeconfig.cache
+/Users/apple/alu-csharp/csharp-hashset_stack_queue_linkedlist/3-stack_push_pop/obj/Debug/net7.0/ref/3-stack_push_pop.dll
