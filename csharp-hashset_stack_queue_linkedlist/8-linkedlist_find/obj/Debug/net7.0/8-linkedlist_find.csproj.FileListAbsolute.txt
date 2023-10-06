@@ -1,0 +1,14 @@
+/Users/apple/alu-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/bin/Debug/net7.0/8-linkedlist_find
+/Users/apple/alu-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/bin/Debug/net7.0/8-linkedlist_find.deps.json
+/Users/apple/alu-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/bin/Debug/net7.0/8-linkedlist_find.runtimeconfig.json
+/Users/apple/alu-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/bin/Debug/net7.0/8-linkedlist_find.dll
+/Users/apple/alu-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/bin/Debug/net7.0/8-linkedlist_find.pdb
+/Users/apple/alu-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/net7.0/8-linkedlist_find.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/alu-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/net7.0/8-linkedlist_find.AssemblyInfoInputs.cache
+/Users/apple/alu-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/net7.0/8-linkedlist_find.AssemblyInfo.cs
+/Users/apple/alu-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/net7.0/8-linkedlist_find.csproj.CoreCompileInputs.cache
+/Users/apple/alu-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/net7.0/8-linkedlist_find.dll
+/Users/apple/alu-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/net7.0/refint/8-linkedlist_find.dll
+/Users/apple/alu-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/net7.0/8-linkedlist_find.pdb
+/Users/apple/alu-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/net7.0/8-linkedlist_find.genruntimeconfig.cache
+/Users/apple/alu-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/net7.0/ref/8-linkedlist_find.dll
