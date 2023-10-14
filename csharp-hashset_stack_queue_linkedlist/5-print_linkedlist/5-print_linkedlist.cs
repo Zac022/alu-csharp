@@ -22,17 +22,3 @@ class LList
     }
 }
 
-class Program
-{
-    static void Main(string[] args)
-    {
-        LinkedList<int> llist;
-        int size;
-
-        size = 8;
-
-        llist = LList.CreatePrint(size);
-        Console.WriteLine("-------------");
-        Console.WriteLine("Linked List Length: " + llist.Count);
-    }
-}
