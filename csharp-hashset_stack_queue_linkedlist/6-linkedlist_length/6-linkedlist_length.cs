@@ -1,20 +1,12 @@
-using System;
-using System.Collections.Generic;
+using System.Collections;
 
-class LList
-{
-    public static int Length(LinkedList<int> myLList)
-    {
+class LList{
+
+    public static int Length(LinkedList<int> myList){
         int count = 0;
-        LinkedListNode<int> currentNode = myLList.First;
-
-        while (currentNode != null)
-        {
+        foreach(int value in myList){
             count++;
-            currentNode = currentNode.Next;
         }
-
         return count;
     }
 }
-
