@@ -1,24 +1,15 @@
-using System;
 using System.Collections.Generic;
 
-class LList
-{
-    public static int GetNode(LinkedList<int> myLList, int n)
-    {
-        if (n < 0 || n >= myLList.Count)
-        {
-            return 0; // Node doesn't exist, return 0
+class LList{
+    public static int GetNode(LinkedList<int> myLList, int n){
+        int index = 0;
+        foreach(int content in myLList){
+            if(index == n){
+                return content;
+            }
+            index++;
         }
 
-        LinkedListNode<int> currentNode = myLList.First;
-        for (int i = 0; i < n; i++)
-        {
-            currentNode = currentNode.Next;
-        }
-
-        return currentNode.Value;
+        return 0;
     }
 }
-
-
-
