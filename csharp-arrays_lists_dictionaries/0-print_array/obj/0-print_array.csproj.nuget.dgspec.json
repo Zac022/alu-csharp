@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/0-print_array/0-print_array.csproj": {}
+    "/Users/isaac/alu-csharp/csharp-arrays_lists_dictionaries/0-print_array/0-print_array.csproj": {}
   },
   "projects": {
-    "/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/0-print_array/0-print_array.csproj": {
+    "/Users/isaac/alu-csharp/csharp-arrays_lists_dictionaries/0-print_array/0-print_array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/0-print_array/0-print_array.csproj",
+        "projectUniqueName": "/Users/isaac/alu-csharp/csharp-arrays_lists_dictionaries/0-print_array/0-print_array.csproj",
         "projectName": "0-print_array",
-        "projectPath": "/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/0-print_array/0-print_array.csproj",
-        "packagesPath": "/Users/apple/.nuget/packages/",
-        "outputPath": "/Users/apple/alu-csharp/csharp-arrays_lists_dictionaries/0-print_array/obj/",
+        "projectPath": "/Users/isaac/alu-csharp/csharp-arrays_lists_dictionaries/0-print_array/0-print_array.csproj",
+        "packagesPath": "/Users/isaac/.nuget/packages/",
+        "outputPath": "/Users/isaac/alu-csharp/csharp-arrays_lists_dictionaries/0-print_array/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/apple/.nuget/NuGet/NuGet.Config"
+          "/Users/isaac/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/7.0.100/libexec/sdk/7.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }
