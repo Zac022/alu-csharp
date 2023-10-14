@@ -1,29 +1,17 @@
-using System;
 using System.Collections.Generic;
 
-class LList
-{
-    public static void Delete(LinkedList<int> myLList, int index)
-    {
-        if (index < 0 || index >= myLList.Count)
-        {
-            return; // Index is out of range
-        }
+class LList{
+    public static void Delete(LinkedList<int> myLList, int index){
+        int count = 0;
+        LinkedListNode<int> current;
+        current = myLList.First;
 
-        LinkedListNode<int> current = myLList.First;
-        int currentIndex = 0;
-
-        while (current != null)
-        {
-            if (currentIndex == index)
-            {
+        while(current != null){
+            if(count == index){
                 myLList.Remove(current);
-                break;
             }
-
             current = current.Next;
-            currentIndex++;
+            count++;
         }
     }
 }
-
