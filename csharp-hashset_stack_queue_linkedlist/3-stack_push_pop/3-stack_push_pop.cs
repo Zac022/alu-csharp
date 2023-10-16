@@ -1,53 +1,40 @@
-using System.Collections;
+using System;
+using System.Collections.Generic;
 
-class MyStack{
-
-        static void Main(string[] args)
+class MyStack
+{
+    public static Stack<string> Info(Stack<string> aStack, string newItem, string search)
     {
-        Stack<string> aStack = new Stack<string>();
-
-        aStack.Push("C");
-        aStack.Push("HTML");
-        aStack.Push("Javascript");
-        aStack.Push("Python");
-        aStack.Push("React");
-        aStack.Push("Ruby");
-
-        foreach (string item in aStack)
-            Console.WriteLine(item);
-
-        Console.WriteLine("------");
-
-        MyStack.Info(aStack, "C#", "Javascript");
-
-        Console.WriteLine("------");
-
-        foreach (string item in aStack)
-            Console.WriteLine(item);
-    }
-    public static Stack<string> Info(Stack<string> aStack, string newItem, string search){
         Console.WriteLine($"Number of items: {aStack.Count}");
 
-        if(aStack.Count == 0){
-            Console.WriteLine("Stack is empty");
-        }else{
-            Console.WriteLine($"Top item: {aStack.Peek()}");
+        if (aStack.Count == 0)
+        {
+            Console.WriteLine("Top item: Stack is empty");
+            Console.WriteLine($"Stack contains \"{search}\": False");
+            aStack.Push(newItem);
+            return aStack;
         }
 
-        if(aStack.Contains(search)){
-            Console.WriteLine($"Stack contains \"{search}\" : True");
-        }else{
-            Console.WriteLine($"Stack contains \"{search}\" : False");
-        }
+        string topItem = aStack.Peek();
+        Console.WriteLine($"Top item: {topItem}");
 
-        for(int i = 0; i <= aStack.Count; i++){
-            if(aStack.Contains(search)){
-                string temp = aStack.Pop();
+        bool containsSearch = aStack.Contains(search);
+        Console.WriteLine($"Stack contains \"{search}\": {containsSearch}");
+
+        if (containsSearch)
+        {
+            while (aStack.Count > 0)
+            {
+                string item = aStack.Pop();
+                if (item == search)
+                {
+                    break;
+                }
             }
         }
 
         aStack.Push(newItem);
-
         return aStack;
     }
 }
+
