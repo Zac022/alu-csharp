@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <doc>
     <assembly>
-        <name>0-enemy</name>
+        <name>1-instance</name>
     </assembly>
     <members>
         <member name="T:Enemies.Zombie">
