@@ -1,4 +1,4 @@
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 
 class LList{
     public static int Pop(LinkedList<int> myList){
